@@ -1,0 +1,135 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="../css/style.css">
+</head>
+<body>
+
+	<header>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <a class="navbar-brand" href="#">HEALTH PLUS</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarColor01">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+         <a class="nav-link" href="../admin/" target="_top">Home<span class="sr-only">(current)</span></a>
+      </li>
+     
+	  
+	  
+	  
+	  
+	  
+    </ul>
+	
+	
+	
+	
+	
+	
+  </div>
+</nav>
+</header>
+
+<br><br>
+
+
+<div class="container">
+
+	<div class="row">  
+
+		<div class="col-4"> </div>
+
+
+		<div class="col-4">
+
+<form method="post" action="search_result_profile.php">
+  <fieldset>
+    <legend>Search Here</legend>
+   
+    
+	 <div class="form-group">
+      <label for="exampleSelect2">Category</label>
+      <select  class="form-control" id="exampleSelect2" name="t1">
+        <option value="Eye Specialist">Eye Specialist</option>
+        <option value="Dentist">Dentist</option>
+        <option value="Skin Care">Skin Care</option>
+        <option value="Nutritionist">Nutritionist</option>
+        <option value="Others">Others</option>
+      </select>
+    </div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    </fieldset>
+    <button type="submit" class="btn btn-primary">Search</button>
+  </fieldset>
+</form>
+
+
+
+
+</div>
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
